@@ -41,5 +41,5 @@ To run the application via flask:
 `flask run --host 0.0.0.0 --port 3000`
 
 To run the application via command line:
-`python3.7 meme.py --body quote --author author --path path_to_image`
+`python3.7 meme.py --path path_to_image --body quote --author author `
 
